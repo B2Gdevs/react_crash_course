@@ -1,3 +1,5 @@
+This app was created following Traversy Media's react crash course youtube video.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
